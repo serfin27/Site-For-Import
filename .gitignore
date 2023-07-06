@@ -5,5 +5,5 @@ _old
 _backup
 *_.old
 *_.backup
-Thumbs.db
-.DS_Store
+img/Thumbs.db
+img/.DS_Store
