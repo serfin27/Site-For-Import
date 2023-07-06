@@ -2,6 +2,7 @@ tmp/
 *.old 
 *.backup
 _old 
+*old
 _backup
 *_.old
 *_.backup
