@@ -8,4 +8,4 @@ _backup
 img/Thumbs.db
 img/.DS_Store
 .DS_Store
-*Store
+*.DS_Store
